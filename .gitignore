@@ -1,0 +1,7 @@
+./idea
+./vscode
+./src/*
+./logs/nginx/*.log
+./logs/php/*.log
+./docker/mysql/data
+.DS_Store
