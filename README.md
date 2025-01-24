@@ -4,7 +4,7 @@
 
 快速搭建PHP代码审计环境，支持使用 PHPStorm 进行调试。支持单/多套源码同时部署，只需要简单配置下Nginx即可。
 
-使用案例，可以参考我的博客：
+使用案例，可以参考我的博客：[使用docker-compose快速搭建PHP代码审计环境](https://n0el4kls.github.io/posts/25-%E4%BD%BF%E7%94%A8docker-compose%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAphp%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E7%8E%AF%E5%A2%83/)
 
 ## Nginx Location 配置示例
 
